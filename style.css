@@ -1,0 +1,5 @@
+body { background: #1a1a1a; color: white; font-family: sans-serif; text-align: center; }
+.app-container { padding: 20px; }
+.coin { width: 200px; cursor: pointer; transition: 0.1s; }
+.coin:active { transform: scale(0.9); }
+button { padding: 15px; background: #ffcc00; border: none; border-radius: 10px; font-weight: bold; cursor: pointer; }
